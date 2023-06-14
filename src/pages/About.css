@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #cbcbcb;
 }
 
 .right {
@@ -27,6 +27,13 @@
 
 .name_title {
   font-size: 48px;
+  color: black;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.role_subtitle {
+  font-size: 28px;
   color: black;
   text-align: left;
   padding-bottom: 20px;
